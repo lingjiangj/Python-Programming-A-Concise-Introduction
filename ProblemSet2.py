@@ -33,12 +33,6 @@ def problem2_1():
     for i in lis:
         print(i, end=" ")
 
-
-
-
-
-
-
 #%%
 """
 Test run:
@@ -84,9 +78,7 @@ def problem2_2(my_list):
     my_list.append("z")
     print(my_list)
 
-    
-
-
+  
 
 #%%
 """
